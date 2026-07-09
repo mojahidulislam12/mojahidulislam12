@@ -24,5 +24,4 @@ Skills: 💻 Frontend: HTML5 • CSS3 • Tailwind CSS • JavaScript (ES6+) •
 
 ![GitHub metrics](https://metrics.lecoq.io/mojahidulislam12)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mojahidulislam12)  
 
